@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Welcome to my GitHub Pages!
 
 This is the page to introduce me.  
 I hope you can get to know me a little better.  
