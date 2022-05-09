@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /ja/
+title: "SubPAGE TITLE"
+---
+
 ## 名前
 
 清水　大智
