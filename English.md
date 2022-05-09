@@ -18,7 +18,7 @@ Graduate school of science and engineering, Soka university
 
 ## Conference presentations
 
-| Coference | Contents of presentation |
-| --- | --- |
-| IEICE MSS | [https://www.ieice.org/ken/paper/202103158CDi/](https://www.ieice.org/ken/paper/202103158CDi/) |
-| ITC-CSCC 2021 | [https://ieeexplore.ieee.org/document/9501453/keywords#keywords](https://ieeexplore.ieee.org/document/9501453/keywords#keywords) |
+- IEICE MSS
+    - [https://www.ieice.org/ken/paper/202103158CDi/](https://www.ieice.org/ken/paper/202103158CDi/)
+- ITC-CSCC 2021
+    - [https://ieeexplore.ieee.org/document/9501453/keywords#keywords](https://ieeexplore.ieee.org/document/9501453/keywords#keywords)
